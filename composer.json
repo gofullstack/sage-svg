@@ -1,13 +1,17 @@
 {
-  "name": "josh-taylor/sage-svg",
+  "name": "gofullstack/sage-svg",
   "type": "package",
   "license": "MIT",
   "description": "WordPress package to enable a blade directive to use SVG images inline with Sage 9",
-  "homepage": "https://github.com/josh-taylor",
+  "homepage": "https://github.com/gofullstack",
   "authors": [
     {
       "name": "Josh Taylor",
       "email": "joshotaylor@gmail.com"
+    },
+    {
+      "name": "Mike Biang",
+      "email": "mike@gofullstack.com"
     }
   ],
   "keywords": [
